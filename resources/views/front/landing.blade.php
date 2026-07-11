@@ -17,7 +17,7 @@
                     <span class="text-brand-400 text-xs font-bold tracking-widest uppercase">Marketplace UMKM Sepatu</span>
                 </div>
                 <h1 class="text-5xl sm:text-6xl lg:text-7xl font-black leading-[1.05] tracking-tight mb-7">Langkahmu,<br><span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-300 via-brand-400 to-emerald-300">Ceritamu.</span></h1>
-                <p class="text-lg text-slate-400 leading-relaxed mb-10 max-w-lg">Temukan koleksi sepatu terbaik dari pengrajin lokal Indonesia. Kualitas premium, harga bersahabat, pengiriman seluruh nusantara.</p>
+                <p class="text-slate-400 max-w-xl mx-auto text-lg">Sepatu berkualitas tinggi dari pengrajin lokal terbaik Indonesia.</p>
                 <div class="flex flex-wrap gap-4">
                     <a href="#produk" class="inline-flex items-center gap-2.5 px-8 py-4 bg-gradient-to-r from-brand-500 to-brand-600 hover:from-brand-400 hover:to-brand-500 text-white font-bold rounded-2xl shadow-xl shadow-brand-500/25 hover:shadow-brand-500/40 transition-all duration-300 hover:-translate-y-0.5">Jelajahi Produk <i class="fa-solid fa-arrow-right text-sm"></i></a>
                     <a href="#cara-pesan" class="inline-flex items-center gap-2.5 px-8 py-4 border border-sf-600/50 hover:border-sf-500 text-slate-300 hover:text-white font-medium rounded-2xl transition-all hover:-translate-y-0.5"><i class="fa-solid fa-circle-play text-brand-400"></i> Cara Pesan</a>
